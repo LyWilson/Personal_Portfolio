@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.51f91dae.css",
-    "main.js": "/static/js/main.ac38738c.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/codeIOT.png": "/static/media/codeIOT.73644bcee72b49aaf4bb.png",
-    "static/media/booking.png": "/static/media/booking.4be0e84c6dbb9f0a7738.png",
-    "static/media/cartoon.png": "/static/media/cartoon.c71513696fd7d32ded1a.png",
-    "static/media/WilsonCS_resume2024.pdf": "/static/media/WilsonCS_resume2024.1a85b63027f96e35d03e.pdf",
-    "static/media/PurpleTiger.jpg": "/static/media/PurpleTiger.4cc3553135e187348386.jpg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/logo.png": "/static/media/logo.1650fa102a2ee2b44cbd.png",
-    "static/media/coding_phone.svg": "/static/media/coding_phone.13ca8040b5606b0d5aa2769d9f2b540b.svg",
-    "static/media/Future.png": "/static/media/Future.720f15309f6e496087f0.png",
-    "index.html": "/index.html",
-    "static/media/pre.svg": "/static/media/pre.c6285f604bb3512e74c7.svg",
-    "main.51f91dae.css.map": "/static/css/main.51f91dae.css.map",
-    "main.ac38738c.js.map": "/static/js/main.ac38738c.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Personal_Portfolio/static/css/main.d2adad64.css",
+    "main.js": "/Personal_Portfolio/static/js/main.06d875bb.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/codeIOT.png": "/Personal_Portfolio/static/media/codeIOT.73644bcee72b49aaf4bb.png",
+    "static/media/booking.png": "/Personal_Portfolio/static/media/booking.4be0e84c6dbb9f0a7738.png",
+    "static/media/cartoon.png": "/Personal_Portfolio/static/media/cartoon.c71513696fd7d32ded1a.png",
+    "static/media/WilsonCS_resume2024.pdf": "/Personal_Portfolio/static/media/WilsonCS_resume2024.1a85b63027f96e35d03e.pdf",
+    "static/media/PurpleTiger.jpg": "/Personal_Portfolio/static/media/PurpleTiger.4cc3553135e187348386.jpg",
+    "static/media/about.png": "/Personal_Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/Personal_Portfolio/static/media/logo.1650fa102a2ee2b44cbd.png",
+    "static/media/coding_phone.svg": "/Personal_Portfolio/static/media/coding_phone.13ca8040b5606b0d5aa2769d9f2b540b.svg",
+    "static/media/Future.png": "/Personal_Portfolio/static/media/Future.720f15309f6e496087f0.png",
+    "index.html": "/Personal_Portfolio/index.html",
+    "static/media/pre.svg": "/Personal_Portfolio/static/media/pre.c6285f604bb3512e74c7.svg",
+    "main.d2adad64.css.map": "/Personal_Portfolio/static/css/main.d2adad64.css.map",
+    "main.06d875bb.js.map": "/Personal_Portfolio/static/js/main.06d875bb.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51f91dae.css",
-    "static/js/main.ac38738c.js"
+    "static/css/main.d2adad64.css",
+    "static/js/main.06d875bb.js"
   ]
 }
